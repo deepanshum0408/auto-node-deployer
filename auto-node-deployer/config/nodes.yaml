@@ -1,0 +1,11 @@
+nodes:
+  shardeum:
+    display_name: "Shardeum"
+    start_command: "python -m http.server 8080"
+    log_file: "logs/shardeum.log"
+    port: 8080
+  taiko:
+    display_name: "Taiko"
+    start_command: "python -m http.server 8081"
+    log_file: "logs/taiko.log"
+    port: 8081 
