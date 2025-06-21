@@ -1,7 +1,6 @@
 # Auto Node Deployer
 
-[![CI](https://github.com/your-username/auto-node-deployer/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/auto-node-deployer/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 
 A Python CLI tool to deploy and monitor blockchain testnet nodes (e.g., Shardeum, Taiko) locally. Modular, extensible, and production-ready for DevOps/Web3 infra roles. **Designed for Ubuntu-based VMs or servers.**
@@ -90,11 +89,7 @@ cat logs/deployer.log
 
 ---
 
-## Contributing
-- Fork the repo and create a feature branch
-- Add your node config to `config/nodes.yaml`
-- Add tests in `tests/`
-- Open a pull request!
+
 
 ---
 
@@ -106,10 +101,9 @@ cat logs/deployer.log
 
 ---
 
-## Screenshot
-<!-- Add screenshot here if available -->
+
+
+
 
 ---
 
-## License
-MIT 
